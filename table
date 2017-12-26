@@ -1,0 +1,1 @@
+create table student(name varchar(10),rollno varchar(10),emailid varchar(10))
